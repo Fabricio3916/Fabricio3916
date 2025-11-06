@@ -3,8 +3,6 @@
   <img src="https://github.com/Fabricio3916/Fabricio3916/blob/main/A_GitHub_profile_README_header_image_showcases_Fab.png" alt="Banner - Fabricio Passos" width="100%">
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Fabricio</h1>
-
 <p align="center">
   💻 <strong>Desenvolvedor Backend Java</strong><br>
   ☕ Apaixonado em resolver problemas e criar soluções escaláveis
