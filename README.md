@@ -28,7 +28,7 @@
 ### 🎯 Projetos em destaque
 
 🚀 **[Music Service API](https://github.com/Fabricio3916/MusicServiceApi)**  
-API desenvolvida em **Java + Spring Boot** para gerenciamento de músicas, artistas e playlists, com autenticação JWT e boas práticas RESTful.  
+API desenvolvida em **Java + Spring Boot** para gerenciamento de músicas, artistas e playlists
 
 🧩 **[Desafio Gestão de Projetos](https://github.com/Fabricio3916/DesafioGestaoProjetos)**  
 Sistema para controle de tarefas e projetos corporativos, com **Spring Security**, **Swagger/OpenAPI** e autenticação via JWT.  
