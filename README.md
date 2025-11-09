@@ -44,7 +44,6 @@ Página inspirada no jogo Persona 5, desenvolvida com **HTML, CSS e animações*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio3916&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
----
 
 ### 🌐 Onde me encontrar
 <p align="center">
