@@ -1,8 +1,3 @@
-<!-- 🖼️ Banner -->
-<p align="center">
-  <img src="https://github.com/Fabricio3916/Fabricio3916/blob/main/A_GitHub_profile_README_header_image_showcases_Fab.png" alt="Banner - Fabricio Passos" width="100%">
-</p>
-
 ### 🧠 Sobre mim
 - 🚀 Foco no desenvolvimento backend com **Java + Spring Boot**
 - 🔒 Experiência em criação de APIs REST seguras e bem estruturadas  
