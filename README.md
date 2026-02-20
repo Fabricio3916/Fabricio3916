@@ -36,6 +36,12 @@
 
 ### 🎯 Projetos em destaque
 
+📨 **[Micro Email & User Service](https://github.com/Fabricio3916/micro-email-user)**
+Arquitetura baseada em microserviços com Java + Spring Boot, separando responsabilidades entre serviço de usuários e serviço de envio de e-mails.
+Projeto com comunicação assíncrona via RabbitMQ, persistência com JPA/Hibernate, banco relacional, mensageria, tratamento de exceções e estrutura organizada em camadas.
+
+Implementa fluxo completo de cadastro de usuário com publicação de evento, processamento por consumidor e disparo de e-mail automático, demonstrando conceitos reais de arquitetura distribuída, mensageria e desacoplamento entre serviços.
+
 🧩 **[Desafio Gestão de Projetos](https://github.com/Fabricio3916/DesafioGestaoProjetos)**  
 API backend desenvolvida em **Java + Spring Boot** para gerenciamento de projetos e tarefas.  
 Projeto focado em fundamentos essenciais de backend, incluindo **criação de APIs REST**, **autenticação e autorização com Spring Security e JWT**, **validações**, **tratamento global de exceções**, **persistência com JPA/Hibernate** e **documentação com Swagger/OpenAPI**.
