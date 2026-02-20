@@ -36,25 +36,29 @@
 
 ### 🎯 Projetos em destaque
 
-📨 **[Micro Email & User Service](https://github.com/Fabricio3916/micro-email-user)**
+📨 **[Micro Email & User Service](https://github.com/Fabricio3916/micro-email-user)** 
+
 Arquitetura baseada em microserviços com Java + Spring Boot, separando responsabilidades entre serviço de usuários e serviço de envio de e-mails.
 Projeto com comunicação assíncrona via RabbitMQ, persistência com JPA/Hibernate, banco relacional, mensageria, tratamento de exceções e estrutura organizada em camadas.
-
 Implementa fluxo completo de cadastro de usuário com publicação de evento, processamento por consumidor e disparo de e-mail automático, demonstrando conceitos reais de arquitetura distribuída, mensageria e desacoplamento entre serviços.
 
 🧩 **[Desafio Gestão de Projetos](https://github.com/Fabricio3916/DesafioGestaoProjetos)**  
+
 API backend desenvolvida em **Java + Spring Boot** para gerenciamento de projetos e tarefas.  
 Projeto focado em fundamentos essenciais de backend, incluindo **criação de APIs REST**, **autenticação e autorização com Spring Security e JWT**, **validações**, **tratamento global de exceções**, **persistência com JPA/Hibernate** e **documentação com Swagger/OpenAPI**.
 
 🚀 **[Music Service API](https://github.com/Fabricio3916/MusicServiceApi)**  
+
 API REST construída com **Java + Spring Boot** para gerenciamento de músicas, artistas e playlists.  
 Aplicação organizada em camadas (controller, service, repository), com **JPA/Hibernate**, banco relacional e foco em boas práticas de código, legibilidade e manutenção.
 
 ☎️ **[Ramais Caixa](https://github.com/Fabricio3916/RamaisCaixa)**  
+
 Aplicação web desenvolvida com **Spring Boot + Thymeleaf** para gerenciamento interno de ramais telefônicos.  
 Projeto com foco em **MVC**, renderização server-side, formulários, validações e persistência de dados, simulando um sistema real de uso corporativo.
 
 🎨 **[Persona 5 Landing Page](https://github.com/Fabricio3916/persona-5-landing-page)**  
+
 Landing page inspirada no jogo Persona 5, desenvolvida com **HTML e CSS**, com foco em responsividade, organização de estilos e atenção à experiência visual.
 
 ---
